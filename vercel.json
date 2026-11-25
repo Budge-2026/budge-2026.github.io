@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/offer-v5-glp", "destination": "/offer-v5-glp/index.html" },
+    { "source": "/offer-v5-glp/", "destination": "/offer-v5-glp/index.html" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}

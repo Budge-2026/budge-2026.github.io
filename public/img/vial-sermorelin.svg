@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 360" role="img" aria-label="Sermorelin vial illustration">
+  <defs>
+    <linearGradient id="glass-ser" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.55" stop-color="#F2F6FB"/>
+      <stop offset="1" stop-color="#D6E6F7"/>
+    </linearGradient>
+    <linearGradient id="cap-ser" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0068d0"/>
+      <stop offset="1" stop-color="#001848"/>
+    </linearGradient>
+  </defs>
+  <rect x="92" y="18" width="36" height="12" rx="6" fill="#001848"/>
+  <rect x="84" y="30" width="52" height="52" rx="10" fill="url(#cap-ser)"/>
+  <rect x="84" y="30" width="52" height="10" rx="5" fill="rgba(255,255,255,0.18)"/>
+  <rect x="96" y="82" width="28" height="16" fill="#D6E6F7"/>
+  <rect x="56" y="98" width="108" height="232" rx="26" fill="url(#glass-ser)" stroke="#B7D0EA" stroke-width="2"/>
+  <path d="M62 300 a26 26 0 0 0 96 0 V242 H62 Z" fill="#9EC0E4"/>
+  <rect x="56" y="150" width="108" height="96" fill="#001848"/>
+  <text x="110" y="196" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1">SERMORELIN</text>
+  <text x="110" y="218" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="Arial, sans-serif" font-size="9" letter-spacing="2">BUDGERX</text>
+  <rect x="70" y="112" width="12" height="180" rx="6" fill="rgba(255,255,255,0.5)"/>
+</svg>

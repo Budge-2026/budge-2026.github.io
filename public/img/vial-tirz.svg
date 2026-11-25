@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 360" role="img" aria-label="Tirzepatide vial illustration">
+  <defs>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.55" stop-color="#F3F0FA"/>
+      <stop offset="1" stop-color="#E4DCF5"/>
+    </linearGradient>
+    <linearGradient id="cap" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4B2A8C"/>
+      <stop offset="1" stop-color="#2B1471"/>
+    </linearGradient>
+  </defs>
+  <!-- flip top -->
+  <rect x="92" y="18" width="36" height="12" rx="6" fill="#4B2A8C"/>
+  <!-- cap -->
+  <rect x="84" y="30" width="52" height="52" rx="10" fill="url(#cap)"/>
+  <rect x="84" y="30" width="52" height="10" rx="5" fill="rgba(255,255,255,0.18)"/>
+  <!-- neck -->
+  <rect x="96" y="82" width="28" height="16" fill="#E4DCF5"/>
+  <!-- body -->
+  <rect x="56" y="98" width="108" height="232" rx="26" fill="url(#glass)" stroke="#CFC3EE" stroke-width="2"/>
+  <!-- liquid -->
+  <path d="M62 300 a26 26 0 0 0 96 0 V242 H62 Z" fill="#C8BCF0"/>
+  <!-- label band -->
+  <rect x="56" y="150" width="108" height="96" fill="#4B2A8C"/>
+  <rect x="56" y="150" width="108" height="96" rx="10"/>
+  <text x="110" y="200" text-anchor="middle" fill="#FEFBF4" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">TIRZEPATIDE</text>
+  <text x="110" y="222" text-anchor="middle" fill="rgba(254,251,244,0.7)" font-family="Arial, sans-serif" font-size="9" letter-spacing="2">BUDGERX</text>
+  <!-- highlight -->
+  <rect x="70" y="112" width="12" height="180" rx="6" fill="rgba(255,255,255,0.5)"/>
+</svg>
